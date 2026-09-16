@@ -1,7 +1,27 @@
 # A02
 Repository for IS117 for Part 2 of the overall project assignment
 
+**NOTE EXTREMELY IMPORTANT** 
 
+This is a tutorial for MacOS users specifically but broad enough for all operating system users to follow!
+
+**STEP 1**
+  1. Open your web browser and go to the official Visual Studio Code Website:
+  2. Click the download visual studio link for your specific operating systemm. If you don't see your operating system it will be in a drop down menu located towards the bottom left when you click on the site.
+  3. Wait for the zip file or regular file to download and be located in your downloads file.
+
+**STEP 2**
+  1.  Navigate to your downloads file
+  2.  Double click the downloaded file, extract the application and put it in your applications folder
+
+**STEP 3**
+  1. Open the applications folder, search for studio code, double click to open it
+  2. A security code will appear along the lines of "this was downloaded from the internet, are you sure you want to open it". In which you should click open.
+     
+**STEP 4** 
+  1. Open Visual Studio Code
+
+***DEFINITIONS OF NEED TO KNOW COMMANDS AND WORDS WHEN IT COMES TO GITHUB***
 
 **Branch** - A parallel version of a repository. It is contained within the repository but does not affect the primary branch, this allows you to work freely and independently without disrupting the live or used version. After making said changes in the branch, you can then merge said changes to the live version of the repository, essentially allowing you to publish your changes.
 
